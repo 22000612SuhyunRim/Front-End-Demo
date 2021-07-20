@@ -23,7 +23,7 @@ input[type='password'] {
 
 input[type='text']:focus,
 input[type='password']:focus {
-    background-color:antiquewhite;
+    background-color:lightgrey;
     outline: none;
 }
 .registerbtn {
